@@ -11,10 +11,8 @@ Reassess groundwater availability and develop a resilient supply framework that 
 - Developed a **MODFLOW-based workflow** to simulate groundwater flow and hydraulic gradients
 - Evaluated groundwater–surface water interactions and operational sensitivity
 - Tested scenarios to understand supply resilience under increasing demand
-- Structured outputs for defensible reporting and decision support (QA/QC-driven)
 
 ## Deliverables
-- Model domain + boundary condition setup documentation
 - Head distribution and gradient interpretation
 - Scenario results supporting reliability and sustainability decisions
 - Clear recommendations aligned with operational constraints
